@@ -7,5 +7,5 @@ def test_przeciwna():
 
 def test_razy2():
     assert main.razy2(4)==8
-    assert main.razy2(0)==2
+    assert main.razy2(0)==0
     assert main.razy2(-21)==-42
